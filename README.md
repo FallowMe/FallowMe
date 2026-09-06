@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tomas 👋
 
-<!--
-**FallowMe/FallowMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | Software Tester
 
-Here are some ideas to get you started:
+I am currently developing hands-on experience in software testing through my studies at TECHIN, practical team projects, and uTest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is manual software testing, identifying and documenting defects, and understanding how software development and testing workflows work in practice.
+
+### 🧪 QA
+- Manual Testing
+- Functional Testing
+- Exploratory Testing
+- Bug Reporting
+- Test Cases & Test Scenarios
+- Regression Testing
+- Jira
+
+### 🛠 Technical Skills
+- SQL
+- Git & GitHub
+- Linux
+- HTML & CSS
+- Basic Docker knowledge
+- Familiar with JavaScript fundamentals
+
+### 📚 Currently
+- Studying Software Testing at TECHIN
+- Practicing web application testing
+- Developing my QA portfolio
+- Building practical Git/GitHub workflow experience
+
+### 🎯 Career Goal
+I am looking for an opportunity to start my career in software testing as a **Junior QA Engineer / Software Tester**.
+
+📍 Lithuania
