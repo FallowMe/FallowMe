@@ -24,7 +24,7 @@ As the **Software Tester / QA**, I worked with:
 
 During the project I created **6 Jira bug reports** for confirmed issues and tested individual development branches before changes were completed.
 
-🔗 [View QA Case Study](https://github.com/FallowMe/manual-testing-portfolio/blob/main/team-projects/myteam-web-application-testing.md)
+🔗 [View QA Case Study](https://github.com/FallowMe/qa-portfolio/blob/main/team-projects/myteam-web-application-testing.md)
 
 🔗 [View Original Team Repository](https://github.com/kestas121/figma-project)
 
@@ -34,7 +34,7 @@ Individual manual testing project focused on exploratory, functional, accessibil
 
 The portfolio includes test documentation, bug reports, a testing checklist, session log and supporting evidence.
 
-🔗 [View TodoMVC Testing Project](https://github.com/FallowMe/manual-testing-portfolio)
+🔗 [View TodoMVC Testing Project](https://github.com/FallowMe/qa-portfolio)
 
 ## 🧪 QA Skills
 
