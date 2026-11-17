@@ -1,72 +1,70 @@
-# Hi, I'm Tomas 👋
+# Hi, I'm Tomas Ščerbinskas 👋
 
-### Junior QA Engineer | Software Tester
+**Software Testing Student at TECHIN | Manual Testing & Selenium Java**
 
-I am currently developing hands-on experience in software testing through my studies at TECHIN, practical team projects, and uTest.
+I am building practical QA skills through TECHIN studies, individual projects, team testing and uTest practice. I am looking for my first opportunity as a **Junior QA Engineer / Software Tester**.
 
-My main focus is manual software testing, identifying and documenting defects, and understanding how software development and QA workflows work in practice.
+My experience includes functional, exploratory, UI and responsive testing, documenting defects in Jira, and retesting fixes. I am now developing UI automation skills with Java, Selenium WebDriver, JUnit and Maven.
 
-## 🚀 Featured QA Projects
+📍 Kaunas, Lithuania · Open to roles in Kaunas or fully remote from Lithuania
 
-### MyTeam Web Application – Team Testing Project
+[Explore my QA portfolio](https://github.com/FallowMe/qa-portfolio)
 
-Team-based web application project completed during my Software Testing studies at TECHIN.
+## Featured projects
 
-As the **Software Tester / QA**, I worked with:
+### Selenium Java — UI Test Automation
 
-- UI and responsive testing
-- Desktop, tablet and mobile testing
-- Figma/design comparison
-- Git branch-based testing
-- Jira bug reporting
-- Retesting and regression checks
-- Communication with developers
+An educational project based on my TECHIN exercises, with **11 implemented UI test scenarios** for OpenCart and DemoQA.
 
-During the project I created **6 Jira bug reports** for confirmed issues and tested individual development branches before changes were completed.
+- OpenCart: positive and negative login scenarios and registration with unique test data
+- DemoQA: button interactions, dynamic element states and progress bar checks
+- Page Object Model, PageFactory, CSS/XPath locators, explicit waits and assertions
+- Shared browser setup and cleanup, independent tests and Maven configuration
 
-🔗 [View QA Case Study](https://github.com/FallowMe/qa-portfolio/blob/main/team-projects/myteam-web-application-testing.md)
+The repository includes Java source code, scenario documentation and an execution record. Compilation was verified; live browser validation was blocked by the validation environment.
 
-🔗 [View Original Team Repository](https://github.com/kestas121/figma-project)
+[Project and source code](https://github.com/FallowMe/qa-portfolio/tree/main/automation/selenium-java) · [Test scenarios](https://github.com/FallowMe/qa-portfolio/blob/main/automation/selenium-java/docs/test-scenarios.md) · [Execution record](https://github.com/FallowMe/qa-portfolio/blob/main/automation/selenium-java/docs/test-execution.md)
 
-### TodoMVC – Manual & Exploratory Testing
+### MyTeam — Team Testing Project
 
-Individual manual testing project focused on exploratory, functional, accessibility, compatibility and responsive testing.
+I worked as the tester in a TECHIN team project, checking functionality, responsive layouts and consistency with Figma designs across desktop, tablet and mobile views.
 
-The portfolio includes test documentation, bug reports, a testing checklist, session log and supporting evidence.
+- Created **6 Jira bug reports** for confirmed issues
+- Tested development branches using a Git/GitHub workflow
+- Retested fixes, performed regression checks and communicated with developers
+- Documented my work in a QA case study with supporting screenshots
 
-🔗 [View TodoMVC Testing Project](https://github.com/FallowMe/qa-portfolio)
+[QA case study](https://github.com/FallowMe/qa-portfolio/blob/main/team-projects/myteam-web-application-testing.md) · [Testing evidence](https://github.com/FallowMe/qa-portfolio/tree/main/team-projects/evidence) · [Original team repository](https://github.com/kestas121/figma-project)
 
-## 🧪 QA Skills
+### TodoMVC — Manual & Exploratory Testing
 
-- Manual Testing
-- Functional Testing
-- Exploratory Testing
-- UI Testing
-- Responsive Testing
-- Bug Reporting
-- Test Cases & Test Scenarios
-- Retesting
-- Regression Testing
-- Jira
+An individual testing project covering functional behaviour, edge cases, keyboard accessibility, compatibility and responsive layouts.
 
-## 🛠 Technical Skills
+The materials include an exploratory testing report, accessibility bug reports, a functional checklist, a session log, screenshots and Excel test documentation.
 
-- SQL
-- Git & GitHub
-- Linux
-- HTML & CSS
-- Basic Docker knowledge
-- Familiar with JavaScript fundamentals
+[Testing report](https://github.com/FallowMe/qa-portfolio/blob/main/exploratory-testing/todomvc-exploratory-testing.md) · [Bug reports](https://github.com/FallowMe/qa-portfolio/blob/main/bug-reports/todomvc-accessibility-bugs.md) · [Checklist](https://github.com/FallowMe/qa-portfolio/blob/main/checklists/todomvc-functional-checklist.md)
 
-## 📚 Currently
+## Skills and tools
 
-- Studying Software Testing at TECHIN
-- Practicing web application testing
-- Developing my QA portfolio
-- Building practical Git/GitHub workflow experience
+| Area | Current practice |
+| --- | --- |
+| Manual testing | Functional, exploratory, UI, responsive, accessibility and compatibility testing |
+| Test documentation | Test cases, scenarios, checklists, bug reports, session logs and testing evidence |
+| Team QA workflow | Jira, defect reporting, retesting, regression checks and communication with developers |
+| UI automation — learning | Java, Selenium WebDriver, JUnit, Maven, Page Object Model, PageFactory and explicit waits |
+| UI inspection | Chrome DevTools, Figma comparison and Pixel Perfect Pro |
+| Version control | Git, GitHub and branch-based testing |
+| Technical foundations | SQL/MySQL, Linux terminal, HTML/CSS, JavaScript fundamentals and Docker basics |
 
-## 🎯 Career Goal
+## Currently learning
 
-I am looking for an opportunity to start my career in software testing as a **Junior QA Engineer / Software Tester**.
+- Building and understanding Selenium Java tests with reusable page objects
+- Choosing locators, handling dynamic elements and investigating failed tests
+- Practicing introductory API checks with Postman and UI automation with Playwright
+- Improving my QA documentation and adding evidence to my portfolio
 
-📍 Lithuania
+My published projects reflect educational and practice-based work. I am continuing to develop these skills through my Software Testing studies at TECHIN.
+
+## Career goal
+
+I am interested in **Junior QA Engineer, Junior Software Tester and Manual QA Tester** opportunities in Kaunas or fully remote from Lithuania, especially roles with mentoring and room to grow into test automation.
